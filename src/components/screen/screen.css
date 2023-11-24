@@ -1,0 +1,19 @@
+.screen{
+    background: url(../../image/bat1.jpg);
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    line-height: 700px;
+    text-align: center;
+    font-size: 30px;
+} 
+
+.screen-active {
+    background: url(../../image/bat.jpg);
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    line-height: 700px;
+    text-align: center;
+    font-size: 30px;
+}
